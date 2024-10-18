@@ -1,0 +1,5 @@
+
+PLAY [zabbix-agent] ************************************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [grafana.my]: UNREACHABLE! => {"changed": false, "msg": "Failed to connect to the host via ssh: mitin@89.169.175.0: Permission denied (publickey,password).", "unreachable": true}
